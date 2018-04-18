@@ -6,7 +6,7 @@ Med-Manager project mockups available through the link below
 https://www.figma.com/file/JRHVEOCZniXZw2Om70kWji2F/Med-Manager?node-id=11%3A98
 
 # Project APK
-https://github.com/esecoder/Med-Manager/app/Med-Manager.apk
+https://github.com/EseCoder/Med-Manager/blob/master/app/Med-Manager.apk
 
 # Sample snapshots
 ![alt text](https://github.com/esecoder/Med-Manager/blob/master/Screenshot_20180418-200133%5B1%5D.png)
