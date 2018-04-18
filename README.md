@@ -9,4 +9,7 @@ https://www.figma.com/file/JRHVEOCZniXZw2Om70kWji2F/Med-Manager?node-id=11%3A98
 https://github.com/EseCoder/Med-Manager/blob/master/app/Med-Manager.apk
 
 # Sample snapshots
-![alt text](https://github.com/esecoder/Med-Manager/blob/master/Screenshot_20180418-200133%5B1%5D.png)
+![alt text](https://github.com/EseCoder/Med-Manager/blob/master/layout-2018-04-18-233323.png)
+![alt text](https://github.com/EseCoder/Med-Manager/blob/master/layout-2018-04-18-233345.png)
+![alt text](https://github.com/EseCoder/Med-Manager/blob/master/layout-2018-04-18-233405.png)
+![alt text](https://github.com/EseCoder/Med-Manager/blob/master/layout-2018-04-18-233454.png)
