@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/brand_blue</color>
+    <color name="colorPrimaryDark">@color/brand_blue_dark</color>
+    <color name="colorAccent">@color/white</color>
+    <color name="textColorPrimary">@color/black</color>
+    <color name="textColorSecondary">@color/black</color>
+    <color name="windowBackground">#ffffffff</color>
+    <color name="brand_blue">#3867A1</color>
+    <color name="brand_blue_dark">#1e3555</color>
+    <color name="white">#ffffff</color>
+    <color name="darker_white">#e2e2e2</color>
+    <color name="white_trans">#8cffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="black_dark">#9a000000</color>
+    <color name="black_darker">#cd000000</color>
+    <color name="black_darkest">#e6000000</color>
+    <color name="black_light">#4d000000</color>
+    <color name="black_lighter">#26000000</color>
+    <color name="black_lightest">#0d000000</color>
+    <color name="green">#6FCF97</color>
+    <color name="dark_green">#346949</color>
+    <color name="gray">#828282</color>
+    <color name="red">#DD4B39</color>
+    <color name="dark_red">#692d1c</color>
+    <color name="black_trans">#b4000000</color>
+    <color name="darker_gray">#E0E0E0</color>
+    <color name="nav_bar_gray">#F2F2F2</color>
+</resources>
