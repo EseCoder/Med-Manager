@@ -1,1 +1,845 @@
-
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:2:1-117:12
+	package
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:10:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.telephony
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:15:5-63
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:15:19-60
+application
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:17:5-115:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.github.med_manager.SplashScreenActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:23:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.github.med_manager.LandingActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:32:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:35:13-49
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:33:13-44
+activity#com.github.med_manager.SignupActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:43:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:42:13-58
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:40:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:44:13-46:74
+	android:value
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:46:17-71
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:45:17-63
+activity#com.github.med_manager.LoginActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:50:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:54:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:53:13-58
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:51:13-42
+activity#com.github.med_manager.HomeActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:61:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:64:13-49
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:62:13-41
+activity#com.github.med_manager.SearchActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:68:9-87:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:72:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:71:13-55
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:70:13-43
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:69:13-43
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:74:13-77:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:75:17-71
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:75:25-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:76:27-73
+meta-data#android.app.searchable
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:83:13-85:54
+	android:resource
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:85:17-51
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:84:17-54
+activity#com.github.med_manager.ProfileActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:89:9-98:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:93:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:92:13-55
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:90:13-44
+activity#com.github.med_manager.NewMedicationActivity
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:100:9-109:20
+	android:screenOrientation
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:104:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:103:13-55
+	android:launchMode
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:101:13-50
+receiver#com.github.med_manager.receiver.MedStartAndEndCheckReceiver
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:111:9-73
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:111:19-71
+receiver#com.github.med_manager.receiver.MedIntervalCheckReceiver
+ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:113:9-70
+	android:name
+		ADDED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml:113:19-68
+uses-sdk
+INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks-license\11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\android.arch.persistence.room\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\android.arch.persistence\db-framework\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\android.arch.persistence\db\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\android.arch.persistence\db\1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\android.arch.core\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.8.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:23:9-26:75
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:23:9-26:75
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ndiana Udom\AndroidStudioProjects\Med-Manager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\AndroidManifest.xml:24:13-58
